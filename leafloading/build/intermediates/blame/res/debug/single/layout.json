@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/leafloading/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/leafloading/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/leafloading/build/intermediates/res/merged/debug/layout/leaf_loading_layout.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/leafloading/src/main/res/layout/leaf_loading_layout.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/leafloading/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/leafloading/src/main/res/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/anim/activity_back.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/anim/activity_back.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/anim/activity_out.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/anim/activity_out.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/anim/activity_finish.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/anim/activity_finish.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/anim/activity_new.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/anim/activity_new.xml"
+    }
+]

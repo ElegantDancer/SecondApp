@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-xhdpi-v4/one.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-xhdpi/one.jpg"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-xhdpi-v4/five.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-xhdpi/five.jpg"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-xhdpi-v4/three.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-xhdpi/three.jpg"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-xhdpi-v4/four.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-xhdpi/four.jpg"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-xhdpi-v4/back.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-xhdpi/back.jpg"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-xhdpi-v4/six.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-xhdpi/six.jpg"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-xhdpi-v4/two.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-xhdpi/two.jpg"
+    }
+]

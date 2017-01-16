@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_shadow_color">#66000000</color>
+
+    <drawable name="trans">@color/color_hei_8</drawable>
+
+    <color name="color_hei">#ff000000</color>
+    <color name="color_hei_8">#00000000</color>
+    <color name="color_cihei">#ff333333</color>
+    <color name="color_bai">#ffffffff</color>
+    <color name="color_bai_8">#ffffffff</color>
+    <color name="semi_transparent_w">#7fffffff</color>
+    <color name="thirty_transparent_black">#4d000000</color>
+    <color name="title_bg">#ff54acea</color>
+    <color name="button_unselected">#ff54acea</color>
+    <color name="transparent">@color/color_hei_8</color>
+    <color name="chat_title_name">@color/color_bai</color>
+    <color name="chat_text">@color/color_cihei</color>
+    <color name="chat_time">@color/color_bai</color>
+    <color name="white">#ffffffff</color>
+    <color name="semi_transparent">#7f000000</color>
+    <color name="black">@color/color_hei</color>
+    <color name="holo_blue">#FF33E5B5</color>
+
+</resources>

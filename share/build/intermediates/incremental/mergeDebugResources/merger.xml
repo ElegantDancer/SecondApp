@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2"><dataSet config="QYBaseCore-release$Generated" generated="true"><source path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res"/><source path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/generated/res/rs/debug"/><source path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/debug/res"/></dataSet><dataSet config="QYBaseCore-release" from-dependency="true" generated-set="QYBaseCore-release$Generated"><source path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res"><file name="tab_color" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/color/tab_color.xml" qualifiers="" type="color"/><file name="background_tab" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable/background_tab.xml" qualifiers="" type="drawable"/><file name="phone_account_back_small_bg" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable/phone_account_back_small_bg.xml" qualifiers="" type="drawable"/><file name="phone_back_bg" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable/phone_back_bg.xml" qualifiers="" type="drawable"/><file name="phone_webview_divideline" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable/phone_webview_divideline.xml" qualifiers="" type="drawable"/><file name="webview_menu_text_color" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable/webview_menu_text_color.xml" qualifiers="" type="drawable"/><file name="phone_account_back_small" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable-xhdpi-v4/phone_account_back_small.png" qualifiers="xhdpi-v4" type="drawable"/><file name="phone_account_back_small_selected" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable-xhdpi-v4/phone_account_back_small_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="phone_empty_data_img" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable-xhdpi-v4/phone_empty_data_img.png" qualifiers="xhdpi-v4" type="drawable"/><file name="webview_menu_share" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable-xhdpi-v4/webview_menu_share.png" qualifiers="xhdpi-v4" type="drawable"/><file name="webview_more_operation" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable-xhdpi-v4/webview_more_operation.png" qualifiers="xhdpi-v4" type="drawable"/><file name="webview_more_operation_menu_bg" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable-xhdpi-v4/webview_more_operation_menu_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="phone_common_webview_menu" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/layout/phone_common_webview_menu.xml" qualifiers="" type="layout"/><file name="phone_common_webview_new" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/layout/phone_common_webview_new.xml" qualifiers="" type="layout"/><file name="webview_menu_item" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/layout/webview_menu_item.xml" qualifiers="" type="layout"/><file path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values/values.xml" qualifiers=""><string name="pull_to_refresh_from_bottom_pull_label">上拉加载更多</string><string name="not_support_type">不支持该类型图片</string><string name="phone_loading_data_not_network">网络未连接\n请稍后点击页面重试</string><string name="phone_loading_data_fail">未获取到内容\n请点击页面重试</string><declare-styleable name="CircleLoadingView"><attr format="boolean" name="auto_animation"/><attr format="boolean" name="static_play"/></declare-styleable><string name="security_warning">安全警告</string><color name="default_grean">#0bbe06</color><declare-styleable name="GenericDraweeView"><attr format="integer" name="fadeDuration"/><attr format="float" name="viewAspectRatio"/><attr format="reference" name="placeholderImage"/><attr name="placeholderImageScaleType">
+      <enum name="none" value="-1"/>
+      <enum name="fitXY" value="0"/>
+      <enum name="fitStart" value="1"/>
+      <enum name="fitCenter" value="2"/>
+      <enum name="fitEnd" value="3"/>
+      <enum name="center" value="4"/>
+      <enum name="centerInside" value="5"/>
+      <enum name="centerCrop" value="6"/>
+      <enum name="focusCrop" value="7"/>
+    </attr><attr format="reference" name="retryImage"/><attr name="retryImageScaleType">
+      <enum name="none" value="-1"/>
+      <enum name="fitXY" value="0"/>
+      <enum name="fitStart" value="1"/>
+      <enum name="fitCenter" value="2"/>
+      <enum name="fitEnd" value="3"/>
+      <enum name="center" value="4"/>
+      <enum name="centerInside" value="5"/>
+      <enum name="centerCrop" value="6"/>
+      <enum name="focusCrop" value="7"/>
+    </attr><attr format="reference" name="failureImage"/><attr name="failureImageScaleType">
+      <enum name="none" value="-1"/>
+      <enum name="fitXY" value="0"/>
+      <enum name="fitStart" value="1"/>
+      <enum name="fitCenter" value="2"/>
+      <enum name="fitEnd" value="3"/>
+      <enum name="center" value="4"/>
+      <enum name="centerInside" value="5"/>
+      <enum name="centerCrop" value="6"/>
+      <enum name="focusCrop" value="7"/>
+    </attr><attr format="reference" name="progressBarImage"/><attr name="progressBarImageScaleType">
+      <enum name="none" value="-1"/>
+      <enum name="fitXY" value="0"/>
+      <enum name="fitStart" value="1"/>
+      <enum name="fitCenter" value="2"/>
+      <enum name="fitEnd" value="3"/>
+      <enum name="center" value="4"/>
+      <enum name="centerInside" value="5"/>
+      <enum name="centerCrop" value="6"/>
+      <enum name="focusCrop" value="7"/>
+    </attr><attr format="integer" name="progressBarAutoRotateInterval"/><attr name="actualImageScaleType">
+      <enum name="none" value="-1"/>
+      <enum name="fitXY" value="0"/>
+      <enum name="fitStart" value="1"/>
+      <enum name="fitCenter" value="2"/>
+      <enum name="fitEnd" value="3"/>
+      <enum name="center" value="4"/>
+      <enum name="centerInside" value="5"/>
+      <enum name="centerCrop" value="6"/>
+      <enum name="focusCrop" value="7"/>
+    </attr><attr format="reference" name="backgroundImage"/><attr format="reference" name="overlayImage"/><attr format="reference" name="pressedStateOverlayImage"/><attr format="boolean" name="roundAsCircle"/><attr format="dimension" name="roundedCornerRadius"/><attr format="boolean" name="roundTopLeft"/><attr format="boolean" name="roundTopRight"/><attr format="boolean" name="roundBottomRight"/><attr format="boolean" name="roundBottomLeft"/><attr format="color" name="roundWithOverlayColor"/><attr format="dimension" name="roundingBorderWidth"/><attr format="color" name="roundingBorderColor"/><attr format="dimension" name="roundingBorderPadding"/></declare-styleable><string name="pull_to_refresh_release_label">松手即可刷新</string><declare-styleable name="KeepHeightRatioImageView"><attr format="float" name="wh_ratio"/></declare-styleable><string name="pull_to_refresh_from_bottom_release_label">松开加载更多</string><color name="devide_line_color">#e7e7e7</color><color name="default_black">#333333</color><declare-styleable name="PtrAbstractLayout"><attr format="boolean" name="refresh_enable"/><attr format="boolean" name="load_enable"/><attr format="boolean" name="load_auto"/></declare-styleable><declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/><attr format="boolean" name="pstsScrollToCenter"/></declare-styleable><string name="pull_to_refresh_refreshing_label">正在加载…</string><declare-styleable name="KeepRatioImageView"><attr format="float" name="ratio"/></declare-styleable><string name="pull_to_refresh_fail_label">加载失败</string><string name="wb_share">分享</string><string name="file_too_large">上传图片不能大于2Ｍ</string><color name="default_gary">#949494</color><string name="pick_file">选择文件</string><string name="ssl_warnings_header">该网站可能存在SSL错误</string><declare-styleable name="SimpleDraweeView"><attr format="string" name="actualImageUri"/></declare-styleable><string name="wb_back">返回</string><declare-styleable name="CircleImageView"><attr format="dimension" name="edge_width"/><attr format="color" name="edge_color"/><attr format="boolean" name="edge_overlay"/><attr format="float" name="circle_ratio"/></declare-styleable><string name="permission_not_grannted_storage">因查看存储空间权限未开启，无法扫描您的存储空间来获取信息，去设置中开启。</string><string name="ssl_continue">继续加载</string><string name="wb_close">关闭</string><string name="pull_to_refresh_pull_label">下拉即可刷新</string><declare-styleable name="OuterFrameTextView"><attr name="outer_frame">
+            <enum name="non" value="0"/>
+            <enum name="rect" value="1"/>
+            <enum name="round" value="2"/>
+            <enum name="round_padding" value="3"/>
+            <enum name="rect_padding" value="4"/>
+        </attr><attr format="color" name="out_frame_bg"/><attr format="color" name="out_frame_color"/></declare-styleable><string name="pull_to_refresh_complete_label">加载完成</string></file><file path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rHK/values-zh-rHK.xml" qualifiers="zh-rHK"><string name="not_support_type">不支持該類型圖片</string><string name="ssl_continue">繼續加載</string><string name="ssl_warnings_header">該網站可能存在SSL錯誤</string><string name="wb_close">關閉</string><string name="pick_file">選擇文件</string><string name="file_too_large">上傳圖片不能大于2Ｍ</string><string name="phone_loading_data_fail">未獲取到內容\n請點擊頁面重試</string><string name="security_warning">安全警告</string><string name="wb_back">返回</string><string name="permission_not_grannted_storage">因查看存儲空間權限未開啓，無法掃描您的存儲空間來獲取信息，去設置中開啓。</string><string name="wb_share">分享</string><string name="phone_loading_data_not_network">網絡未連接\n請稍後點擊頁面重試</string></file><file path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rTW/values-zh-rTW.xml" qualifiers="zh-rTW"><string name="ssl_warnings_header">該網站可能存在SSL錯誤</string><string name="wb_close">關閉</string><string name="file_too_large">上傳圖片不能大于2Ｍ</string><string name="wb_back">返回</string><string name="permission_not_grannted_storage">因查看存儲空間權限未開啓，無法掃描您的存儲空間來獲取信息，去設置中開啓。</string><string name="ssl_continue">繼續加載</string><string name="wb_share">分享</string><string name="not_support_type">不支持該類型圖片</string><string name="phone_loading_data_not_network">網絡未連接\n請稍後點擊頁面重試</string><string name="pick_file">選擇文件</string><string name="security_warning">安全警告</string><string name="phone_loading_data_fail">未獲取到內容\n請點擊頁面重試</string></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res"><file name="ic_launcher" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="activity_main" path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/values/strings.xml" qualifiers=""><string name="sns_share_success">分享成功</string><string name="sns_share_cancel">分享取消</string><string name="app_name">share</string><string name="sns_share_vv">[小伙伴们已观看<ns1:g id="vv">%s</ns1:g>次]</string><string name="sns_share_fail">分享失败</string><string name="sns_share_everyone_is_watching">【大家都在看】</string></file><file path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/values-zh-rHK/strings.xml" qualifiers="zh-rHK"><string name="sns_share_vv">[小夥伴們已觀看<ns1:g id="vv">%s</ns1:g>次]</string><string name="sns_share_fail">分享失敗</string><string name="sns_share_everyone_is_watching">【大家都在看】</string><string name="app_name">share</string><string name="sns_share_cancel">分享取消</string><string name="sns_share_success">分享成功</string></file><file path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/values-zh-rTW/strings.xml" qualifiers="zh-rTW"><string name="sns_share_vv">[小夥伴們已觀看<ns1:g id="vv">%s</ns1:g>次]</string><string name="sns_share_fail">分享失敗</string><string name="sns_share_cancel">分享取消</string><string name="sns_share_everyone_is_watching">【大家都在看】</string><string name="sns_share_success">分享成功</string><string name="app_name">share</string></file></source><source path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/generated/res/rs/debug"/><source path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SimpleDraweeView"><attr format="string" name="actualImageUri"/></declare-styleable><declare-styleable name="CircleImageView"><attr format="dimension" name="edge_width"/><attr format="color" name="edge_color"/><attr format="boolean" name="edge_overlay"/><attr format="float" name="circle_ratio"/></declare-styleable><declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/><attr format="boolean" name="pstsScrollToCenter"/></declare-styleable><declare-styleable name="KeepRatioImageView"><attr format="float" name="ratio"/></declare-styleable><declare-styleable name="CircleLoadingView"><attr format="boolean" name="auto_animation"/><attr format="boolean" name="static_play"/></declare-styleable><declare-styleable name="PtrAbstractLayout"><attr format="boolean" name="refresh_enable"/><attr format="boolean" name="load_enable"/><attr format="boolean" name="load_auto"/></declare-styleable><declare-styleable name="GenericDraweeView"><attr format="integer" name="fadeDuration"/><attr format="float" name="viewAspectRatio"/><attr format="reference" name="placeholderImage"/><attr name="placeholderImageScaleType">
+      <enum name="none" value="-1"/>
+      <enum name="fitXY" value="0"/>
+      <enum name="fitStart" value="1"/>
+      <enum name="fitCenter" value="2"/>
+      <enum name="fitEnd" value="3"/>
+      <enum name="center" value="4"/>
+      <enum name="centerInside" value="5"/>
+      <enum name="centerCrop" value="6"/>
+      <enum name="focusCrop" value="7"/>
+    </attr><attr format="reference" name="retryImage"/><attr name="retryImageScaleType">
+      <enum name="none" value="-1"/>
+      <enum name="fitXY" value="0"/>
+      <enum name="fitStart" value="1"/>
+      <enum name="fitCenter" value="2"/>
+      <enum name="fitEnd" value="3"/>
+      <enum name="center" value="4"/>
+      <enum name="centerInside" value="5"/>
+      <enum name="centerCrop" value="6"/>
+      <enum name="focusCrop" value="7"/>
+    </attr><attr format="reference" name="failureImage"/><attr name="failureImageScaleType">
+      <enum name="none" value="-1"/>
+      <enum name="fitXY" value="0"/>
+      <enum name="fitStart" value="1"/>
+      <enum name="fitCenter" value="2"/>
+      <enum name="fitEnd" value="3"/>
+      <enum name="center" value="4"/>
+      <enum name="centerInside" value="5"/>
+      <enum name="centerCrop" value="6"/>
+      <enum name="focusCrop" value="7"/>
+    </attr><attr format="reference" name="progressBarImage"/><attr name="progressBarImageScaleType">
+      <enum name="none" value="-1"/>
+      <enum name="fitXY" value="0"/>
+      <enum name="fitStart" value="1"/>
+      <enum name="fitCenter" value="2"/>
+      <enum name="fitEnd" value="3"/>
+      <enum name="center" value="4"/>
+      <enum name="centerInside" value="5"/>
+      <enum name="centerCrop" value="6"/>
+      <enum name="focusCrop" value="7"/>
+    </attr><attr format="integer" name="progressBarAutoRotateInterval"/><attr name="actualImageScaleType">
+      <enum name="none" value="-1"/>
+      <enum name="fitXY" value="0"/>
+      <enum name="fitStart" value="1"/>
+      <enum name="fitCenter" value="2"/>
+      <enum name="fitEnd" value="3"/>
+      <enum name="center" value="4"/>
+      <enum name="centerInside" value="5"/>
+      <enum name="centerCrop" value="6"/>
+      <enum name="focusCrop" value="7"/>
+    </attr><attr format="reference" name="backgroundImage"/><attr format="reference" name="overlayImage"/><attr format="reference" name="pressedStateOverlayImage"/><attr format="boolean" name="roundAsCircle"/><attr format="dimension" name="roundedCornerRadius"/><attr format="boolean" name="roundTopLeft"/><attr format="boolean" name="roundTopRight"/><attr format="boolean" name="roundBottomRight"/><attr format="boolean" name="roundBottomLeft"/><attr format="color" name="roundWithOverlayColor"/><attr format="dimension" name="roundingBorderWidth"/><attr format="color" name="roundingBorderColor"/><attr format="dimension" name="roundingBorderPadding"/></declare-styleable><declare-styleable name="KeepHeightRatioImageView"><attr format="float" name="wh_ratio"/></declare-styleable><declare-styleable name="OuterFrameTextView"><attr name="outer_frame">
+            <enum name="non" value="0"/>
+            <enum name="rect" value="1"/>
+            <enum name="round" value="2"/>
+            <enum name="round_padding" value="3"/>
+            <enum name="rect_padding" value="4"/>
+        </attr><attr format="color" name="out_frame_bg"/><attr format="color" name="out_frame_color"/></declare-styleable></configuration></mergedItems></merger>

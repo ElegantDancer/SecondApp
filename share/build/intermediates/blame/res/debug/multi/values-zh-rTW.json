@@ -1,0 +1,349 @@
+[
+    {
+        "outputFile": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 42,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 42,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 53,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 53,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 53,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 96,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 96,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endColumn": 67,
+                    "endOffset": 416
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 421,
+                    "endColumn": 75,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 75,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 42,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 42,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 49,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 49,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 49,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 49,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 640,
+                    "endColumn": 66,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 66,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 47,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 47,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 50,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 50,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 76,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/values-zh-rTW/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 80,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endColumn": 45,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 45,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 60,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 543,
+                        "endColumn": 60,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 38,
+                    "endOffset": 1024
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 604,
+                        "endColumn": 38,
+                        "endOffset": 638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1029,
+                    "endColumn": 39,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 643,
+                        "endColumn": 39,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 39,
+                    "endOffset": 1104
+                },
+                "from": {
+                    "file": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/values-zh-rTW/values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 683,
+                        "endColumn": 39,
+                        "endOffset": 718
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/chatExpression/src/main/java/com/example/activity/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chatExpression/src/main/java/com/example/activity/MessageItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chatExpression/src/main/java/com/org/adapter/FacePageAdeapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chatExpression/src/main/java/com/org/adapter/MessageAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chatExpression/src/main/java/com/org/util/MyApplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chatExpression/src/main/java/com/org/util/SharePreferenceUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chatExpression/src/main/java/com/org/util/TimeUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chatExpression/src/main/java/com/org/xlistview/MsgHeader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chatExpression/src/main/java/com/org/xlistview/MsgListView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chatExpression/src/main/java/com/org/xlistview/XExpandableListView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chatExpression/src/main/java/com/org/xlistview/XListViewHeader.java" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

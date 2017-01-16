@@ -8,7 +8,40 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/android_animation" />
+            <option value="$PROJECT_DIR$/android_webview" />
+            <option value="$PROJECT_DIR$/anim" />
+            <option value="$PROJECT_DIR$/animation" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/appupdateutil" />
+            <option value="$PROJECT_DIR$/autohidelistview" />
+            <option value="$PROJECT_DIR$/bitmapdemo" />
+            <option value="$PROJECT_DIR$/chatExpression" />
+            <option value="$PROJECT_DIR$/constraintlayout" />
+            <option value="$PROJECT_DIR$/contactsTest" />
+            <option value="$PROJECT_DIR$/customanim" />
+            <option value="$PROJECT_DIR$/databaseTest" />
+            <option value="$PROJECT_DIR$/datestorage" />
+            <option value="$PROJECT_DIR$/dispatchtouchevent" />
+            <option value="$PROJECT_DIR$/dragviewtest" />
+            <option value="$PROJECT_DIR$/layertest" />
+            <option value="$PROJECT_DIR$/leafloading" />
+            <option value="$PROJECT_DIR$/mylistview" />
+            <option value="$PROJECT_DIR$/nestingscrolldemo" />
+            <option value="$PROJECT_DIR$/notificationTest" />
+            <option value="$PROJECT_DIR$/progressbardemo" />
+            <option value="$PROJECT_DIR$/providerTest" />
+            <option value="$PROJECT_DIR$/pullToRefreshTest" />
+            <option value="$PROJECT_DIR$/recycleview" />
+            <option value="$PROJECT_DIR$/sMSTest" />
+            <option value="$PROJECT_DIR$/selfcircle" />
+            <option value="$PROJECT_DIR$/servicedemo" />
+            <option value="$PROJECT_DIR$/share" />
+            <option value="$PROJECT_DIR$/swipeRefreshLayout" />
+            <option value="$PROJECT_DIR$/swipeRefreshLayoutDemomaster" />
+            <option value="$PROJECT_DIR$/swipelayout" />
+            <option value="$PROJECT_DIR$/updatelibrary" />
+            <option value="$PROJECT_DIR$/waterfall" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

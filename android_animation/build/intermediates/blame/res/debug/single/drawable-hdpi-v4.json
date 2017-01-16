@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-hdpi-v4/one.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-hdpi/one.jpg"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-hdpi-v4/six.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-hdpi/six.jpg"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-hdpi-v4/two.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-hdpi/two.jpg"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-hdpi-v4/three.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-hdpi/three.jpg"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-hdpi-v4/back.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-hdpi/back.jpg"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-hdpi-v4/five.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-hdpi/five.jpg"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/build/intermediates/res/merged/debug/drawable-hdpi-v4/four.jpg",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/android_animation/src/main/res/drawable-hdpi/four.jpg"
+    }
+]

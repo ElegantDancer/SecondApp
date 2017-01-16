@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/drawable/phone_back_bg.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable/phone_back_bg.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/drawable/background_tab.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/drawable/webview_menu_text_color.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable/webview_menu_text_color.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/drawable/phone_webview_divideline.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable/phone_webview_divideline.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/drawable/phone_account_back_small_bg.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable/phone_account_back_small_bg.xml"
+    }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="file_too_large">上傳圖片不能大于2Ｍ</string>
+    <string name="not_support_type">不支持該類型圖片</string>
+    <string name="permission_not_grannted_storage">因查看存儲空間權限未開啓，無法掃描您的存儲空間來獲取信息，去設置中開啓。</string>
+    <string name="phone_loading_data_fail">未獲取到內容\n請點擊頁面重試</string>
+    <string name="phone_loading_data_not_network">網絡未連接\n請稍後點擊頁面重試</string>
+    <string name="pick_file">選擇文件</string>
+    <string name="security_warning">安全警告</string>
+    <string name="ssl_continue">繼續加載</string>
+    <string name="ssl_warnings_header">該網站可能存在SSL錯誤</string>
+    <string name="wb_back">返回</string>
+    <string name="wb_close">關閉</string>
+    <string name="wb_share">分享</string>
+</resources>

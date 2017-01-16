@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/layout/phone_common_webview_menu.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/layout/phone_common_webview_menu.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/layout/webview_menu_item.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/layout/webview_menu_item.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/layout/phone_common_webview_new.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/layout/phone_common_webview_new.xml"
+    }
+]

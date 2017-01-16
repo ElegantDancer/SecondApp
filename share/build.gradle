@@ -1,0 +1,52 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.iqiyi.share"
+        minSdkVersion 14
+        targetSdkVersion 23
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    sourceSets{
+        main{
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+
+repositories{
+    flatDir{
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: '*.jar')
+
+
+//    compile files('libs/libapshare20161108.jar')
+//    compile files('libs/open_sdk_r5043_lite.jar')
+//    compile files('libs/weibosdkcore_release.jar')
+
+
+//    provided 'libs/classes.jar'
+//    provided 'libs/module.jar'
+//    provided 'libs/org.apache.http.legacy.jar'
+//    provided 'libs/share_ex.jar'
+//    provided 'libs/shareplug.jar'
+    compile (name: 'QYBaseCore-release', ext: 'aar')
+}

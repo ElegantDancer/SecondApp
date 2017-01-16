@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/notificationTest/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/notificationTest/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/notificationTest/build/intermediates/res/merged/debug/layout/notification_layout.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/notificationTest/src/main/res/layout/notification_layout.xml"
+    }
+]

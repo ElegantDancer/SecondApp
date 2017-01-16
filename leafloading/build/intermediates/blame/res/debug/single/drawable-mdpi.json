@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/leafloading/build/intermediates/res/merged/debug/drawable-mdpi/fengshan.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/leafloading/src/main/res/drawable-mdpi/fengshan.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/leafloading/build/intermediates/res/merged/debug/drawable-mdpi/leaf.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/leafloading/src/main/res/drawable-mdpi/leaf.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/leafloading/build/intermediates/res/merged/debug/drawable-mdpi/leaf_kuang.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/leafloading/src/main/res/drawable-mdpi/leaf_kuang.png"
+    }
+]

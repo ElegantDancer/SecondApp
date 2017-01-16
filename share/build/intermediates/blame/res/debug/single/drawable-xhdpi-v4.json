@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/drawable-xhdpi-v4/phone_account_back_small.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable-xhdpi-v4/phone_account_back_small.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/drawable-xhdpi-v4/webview_more_operation.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable-xhdpi-v4/webview_more_operation.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/drawable-xhdpi-v4/webview_more_operation_menu_bg.9.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable-xhdpi-v4/webview_more_operation_menu_bg.9.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/drawable-xhdpi-v4/phone_account_back_small_selected.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable-xhdpi-v4/phone_account_back_small_selected.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/drawable-xhdpi-v4/phone_empty_data_img.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable-xhdpi-v4/phone_empty_data_img.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/res/merged/debug/drawable-xhdpi-v4/webview_menu_share.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/res/drawable-xhdpi-v4/webview_menu_share.png"
+    }
+]

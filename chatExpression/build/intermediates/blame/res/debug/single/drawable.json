@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/list_group_item_background_selected.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/list_group_item_background_selected.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/common_loading3.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/common_loading3.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/balloon_l_selector.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/balloon_l_selector.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/top_button_right_selector.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/top_button_right_selector.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/coversation_bg.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/coversation_bg.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/list_group_item_background.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/list_group_item_background.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/red_del_btn_bg.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/red_del_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/chat_title_bg_repeat.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/chat_title_bg_repeat.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/edit_text.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/edit_text.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/chat_bottombar_btn_selector.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/chat_bottombar_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/chat_item_icon_bg_selector.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/chat_item_icon_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/common_loading4.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/common_loading4.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/contact_list_item_buddy_signature_text_color.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/contact_list_item_buddy_signature_text_color.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/iphone_online.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/iphone_online.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/contact_list_item_buddy_signature_text_color2.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/contact_list_item_buddy_signature_text_color2.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/top_back_left_selector.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/top_back_left_selector.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/contact_list_item_bg_selector.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/contact_list_item_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/contact_list_item_buddy_name_text_color.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/contact_list_item_buddy_name_text_color.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/progress_receivepic.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/progress_receivepic.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/list_group_item_background_unselected.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/list_group_item_background_unselected.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/emotion_del_selector.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/emotion_del_selector.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/pop_btn_face_selector.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/pop_btn_face_selector.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/build/intermediates/res/merged/debug/drawable/balloon_r_selector.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/chatExpression/src/main/res/drawable/balloon_r_selector.xml"
+    }
+]

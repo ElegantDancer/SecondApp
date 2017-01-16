@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:1:1-73:12
+	package
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:6:5-8:41
+MERGED from [:QYBaseCore-release:] /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/build/intermediates/exploded-aar/QYBaseCore-release/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:7:9-35
+		INJECTED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml
+application
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:10:5-71:19
+	android:label
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:12:9-45
+	android:theme
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:14:9-40
+meta-data#pluginapp_class_inject
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:16:6-77
+	android:value
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:16:55-75
+	android:name
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:16:17-54
+activity#com.iqiyi.share.ShareTransferActivity
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:18:9-32:20
+	android:screenOrientation
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:20:13-49
+	android:theme
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:19:13-65
+meta-data#pluginapp_activity_special
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:22:13-24:47
+	android:value
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:24:17-44
+	android:name
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:23:17-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:26:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:30:27-74
+activity#com.tencent.tauth.AuthActivity
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:35:9-47:20
+	android:launchMode
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:37:13-44
+	android:noHistory
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:36:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:39:13-46:29
+action#android.intent.action.VIEW
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:43:27-75
+data
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:45:17-56
+	android:scheme
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:45:23-53
+activity#com.iqiyi.share.qq.CustomAssistActivity
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:48:9-51:75
+	android:configChanges
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:50:13-74
+	android:theme
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:51:13-72
+	android:name
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:49:13-67
+activity#com.tencent.connect.common.AssistActivity
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:52:9-55:75
+	android:configChanges
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:54:13-74
+	android:theme
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:55:13-72
+	android:name
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:53:13-69
+activity#com.iqiyi.share.ap.ShareEntryActivity
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:58:9-62:20
+	android:screenOrientation
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:59:13-49
+	android:exported
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:60:13-36
+	android:theme
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:61:13-72
+	android:name
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:58:19-71
+activity#com.iqiyi.share.sina.SinaEntryActivity
+ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:65:9-69:20
+	android:screenOrientation
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:66:13-49
+	android:exported
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:67:13-36
+	android:theme
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:68:13-72
+	android:name
+		ADDED from /Users/zhenzhen/AndroidStudioProjects/SecondApp/share/src/main/AndroidManifest.xml:65:19-72
