@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_pan_right.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/src/main/res/drawable-xhdpi/ic_action_pan_right.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_pan_down.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/src/main/res/drawable-xhdpi/ic_action_pan_down.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_pan_left.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/src/main/res/drawable-xhdpi/ic_action_pan_left.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_zoom_in.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/src/main/res/drawable-xhdpi/ic_action_zoom_in.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_pan_up.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/src/main/res/drawable-xhdpi/ic_action_pan_up.png"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_zoom_out.png",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/interactiveChart/src/main/res/drawable-xhdpi/ic_action_zoom_out.png"
+    }
+]

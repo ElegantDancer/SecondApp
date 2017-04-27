@@ -49,5 +49,8 @@ public class CustomAnim extends Animation {
         // 通过pre方法设置矩阵作用前的偏移量来改变旋转中心
         matrix.preTranslate(mCenterWidth, mCenterHeight);
         matrix.postTranslate(-mCenterWidth, -mCenterHeight);
+
+//        matrix.preTranslate(-mCenterWidth, -mCenterHeight);
+//        matrix.postTranslate(mCenterWidth, mCenterHeight);
     }
 }

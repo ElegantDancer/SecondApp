@@ -3,6 +3,7 @@ package com.zhenzhen.secondapp;
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
+import android.support.v4.content.ContextCompat;
 import android.util.AttributeSet;
 import android.view.View;
 
@@ -28,5 +29,6 @@ public class CanvasDemo extends View {
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
         canvas.drawColor(Color.BLUE);
+
     }
 }

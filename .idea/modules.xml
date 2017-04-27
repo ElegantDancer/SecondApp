@@ -3,39 +3,61 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SecondApp.iml" filepath="$PROJECT_DIR$/SecondApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a2048/a2048.iml" filepath="$PROJECT_DIR$/a2048/a2048.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activityTrans/activityTrans.iml" filepath="$PROJECT_DIR$/activityTrans/activityTrans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiytest/activiytest.iml" filepath="$PROJECT_DIR$/activiytest/activiytest.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_animation/android_animation.iml" filepath="$PROJECT_DIR$/android_animation/android_animation.iml" />
       <module fileurl="file://$PROJECT_DIR$/android_webview/android_webview.iml" filepath="$PROJECT_DIR$/android_webview/android_webview.iml" />
       <module fileurl="file://$PROJECT_DIR$/anim/anim.iml" filepath="$PROJECT_DIR$/anim/anim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animatedSelector/animatedSelector.iml" filepath="$PROJECT_DIR$/animatedSelector/animatedSelector.iml" />
       <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/appupdateutil/appupdateutil.iml" filepath="$PROJECT_DIR$/appupdateutil/appupdateutil.iml" />
       <module fileurl="file://$PROJECT_DIR$/autohidelistview/autohidelistview.iml" filepath="$PROJECT_DIR$/autohidelistview/autohidelistview.iml" />
       <module fileurl="file://$PROJECT_DIR$/bitmapdemo/bitmapdemo.iml" filepath="$PROJECT_DIR$/bitmapdemo/bitmapdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatExpression/chatExpression.iml" filepath="$PROJECT_DIR$/chatExpression/chatExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cliptest/cliptest.iml" filepath="$PROJECT_DIR$/cliptest/cliptest.iml" />
       <module fileurl="file://$PROJECT_DIR$/constraintlayout/constraintlayout.iml" filepath="$PROJECT_DIR$/constraintlayout/constraintlayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/contactsTest/contactsTest.iml" filepath="$PROJECT_DIR$/contactsTest/contactsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentProviderDemo/contentProviderDemo.iml" filepath="$PROJECT_DIR$/contentProviderDemo/contentProviderDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentProviderDemo1/contentProviderDemo1.iml" filepath="$PROJECT_DIR$/contentProviderDemo1/contentProviderDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentProviderDemo2/contentProviderDemo2.iml" filepath="$PROJECT_DIR$/contentProviderDemo2/contentProviderDemo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/customanim/customanim.iml" filepath="$PROJECT_DIR$/customanim/customanim.iml" />
       <module fileurl="file://$PROJECT_DIR$/databaseTest/databaseTest.iml" filepath="$PROJECT_DIR$/databaseTest/databaseTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/datestorage/datestorage.iml" filepath="$PROJECT_DIR$/datestorage/datestorage.iml" />
       <module fileurl="file://$PROJECT_DIR$/dispatchtouchevent/dispatchtouchevent.iml" filepath="$PROJECT_DIR$/dispatchtouchevent/dispatchtouchevent.iml" />
       <module fileurl="file://$PROJECT_DIR$/dragviewtest/dragviewtest.iml" filepath="$PROJECT_DIR$/dragviewtest/dragviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interactiveChart/interactiveChart.iml" filepath="$PROJECT_DIR$/interactiveChart/interactiveChart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ipcdemo/ipcdemo.iml" filepath="$PROJECT_DIR$/ipcdemo/ipcdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/layertest/layertest.iml" filepath="$PROJECT_DIR$/layertest/layertest.iml" />
       <module fileurl="file://$PROJECT_DIR$/leafloading/leafloading.iml" filepath="$PROJECT_DIR$/leafloading/leafloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mutiprocess/mutiprocess.iml" filepath="$PROJECT_DIR$/mutiprocess/mutiprocess.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylistview/mylistview.iml" filepath="$PROJECT_DIR$/mylistview/mylistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mynotification/mynotification.iml" filepath="$PROJECT_DIR$/mynotification/mynotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myrefreshlayout/myrefreshlayout.iml" filepath="$PROJECT_DIR$/myrefreshlayout/myrefreshlayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/nestingscrolldemo/nestingscrolldemo.iml" filepath="$PROJECT_DIR$/nestingscrolldemo/nestingscrolldemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationM/notificationM.iml" filepath="$PROJECT_DIR$/notificationM/notificationM.iml" />
       <module fileurl="file://$PROJECT_DIR$/notificationTest/notificationTest.iml" filepath="$PROJECT_DIR$/notificationTest/notificationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palette/palette.iml" filepath="$PROJECT_DIR$/palette/palette.iml" />
       <module fileurl="file://$PROJECT_DIR$/progressbardemo/progressbardemo.iml" filepath="$PROJECT_DIR$/progressbardemo/progressbardemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/providerTest/providerTest.iml" filepath="$PROJECT_DIR$/providerTest/providerTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/pullToRefreshTest/pullToRefreshTest.iml" filepath="$PROJECT_DIR$/pullToRefreshTest/pullToRefreshTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/recycleview/recycleview.iml" filepath="$PROJECT_DIR$/recycleview/recycleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycleviewM/recycleviewM.iml" filepath="$PROJECT_DIR$/recycleviewM/recycleviewM.iml" />
       <module fileurl="file://$PROJECT_DIR$/sMSTest/sMSTest.iml" filepath="$PROJECT_DIR$/sMSTest/sMSTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/selfcircle/selfcircle.iml" filepath="$PROJECT_DIR$/selfcircle/selfcircle.iml" />
       <module fileurl="file://$PROJECT_DIR$/servicedemo/servicedemo.iml" filepath="$PROJECT_DIR$/servicedemo/servicedemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/share/share.iml" filepath="$PROJECT_DIR$/share/share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shareEntryActivity/shareEntryActivity.iml" filepath="$PROJECT_DIR$/shareEntryActivity/shareEntryActivity.iml" />
       <module fileurl="file://$PROJECT_DIR$/swipeRefreshLayout/swipeRefreshLayout.iml" filepath="$PROJECT_DIR$/swipeRefreshLayout/swipeRefreshLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/swipeRefreshLayoutDemomaster/swipeRefreshLayoutDemomaster.iml" filepath="$PROJECT_DIR$/swipeRefreshLayoutDemomaster/swipeRefreshLayoutDemomaster.iml" />
       <module fileurl="file://$PROJECT_DIR$/swipelayout/swipelayout.iml" filepath="$PROJECT_DIR$/swipelayout/swipelayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/systeminfo/systeminfo.iml" filepath="$PROJECT_DIR$/systeminfo/systeminfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/systemtest/systemtest.iml" filepath="$PROJECT_DIR$/systemtest/systemtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinttest/tinttest.iml" filepath="$PROJECT_DIR$/tinttest/tinttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbartest/toolbartest.iml" filepath="$PROJECT_DIR$/toolbartest/toolbartest.iml" />
       <module fileurl="file://$PROJECT_DIR$/updatelibrary/updatelibrary.iml" filepath="$PROJECT_DIR$/updatelibrary/updatelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vectortest/vectortest.iml" filepath="$PROJECT_DIR$/vectortest/vectortest.iml" />
       <module fileurl="file://$PROJECT_DIR$/waterfall/waterfall.iml" filepath="$PROJECT_DIR$/waterfall/waterfall.iml" />
     </modules>
   </component>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <com.alipay.share.demo.APKeyBoardView2
+        android:id="@+id/aPKeyBoardView1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentBottom="true"
+        android:background="#FF262A3B" >
+
+        <!-- <TextView android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" -->
+        <!-- android:gravity="center" -->
+        <!-- android:clickable="true" -->
+        <!-- android:text="1" -->
+        <!-- android:id="@+id/key1" -->
+        <!-- android:background="@drawable/item_selector"/> -->
+        <!-- <TextView android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" -->
+        <!-- android:gravity="center" -->
+        <!-- android:clickable="true" -->
+        <!-- android:id="@+id/key2" -->
+        <!-- android:text="2" -->
+        <!-- android:background="@drawable/item_selector"/> -->
+        <!-- <TextView android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" -->
+        <!-- android:id="@+id/key3" -->
+        <!-- android:gravity="center" -->
+        <!-- android:clickable="true" -->
+        <!-- android:background="@drawable/item_selector" -->
+        <!-- android:text="3"/> -->
+        <!-- <TextView android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" -->
+        <!-- android:gravity="center" -->
+        <!-- android:text="4" -->
+        <!-- android:id="@+id/key4" -->
+        <!-- android:background="@drawable/item_selector"/> -->
+        <!-- <TextView android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" -->
+        <!-- android:id="@+id/key5" -->
+        <!-- android:gravity="center" -->
+        <!-- android:clickable="true" -->
+        <!-- android:text="5" -->
+        <!-- android:background="@drawable/item_selector"/> -->
+        <!-- <TextView android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" -->
+        <!-- android:id="@+id/key6" -->
+        <!-- android:gravity="center" -->
+        <!-- android:clickable="true" -->
+        <!-- android:text="6" -->
+        <!-- android:background="@drawable/item_selector"/> -->
+        <!-- <TextView android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" -->
+        <!-- android:id="@+id/key7" -->
+        <!-- android:gravity="center" -->
+        <!-- android:clickable="true" -->
+        <!-- android:text="7" -->
+        <!-- android:background="@drawable/item_selector"/> -->
+        <!-- <TextView android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" -->
+        <!-- android:id="@+id/key8" -->
+        <!-- android:gravity="center" -->
+        <!-- android:clickable="true" -->
+        <!-- android:text="8" -->
+        <!-- android:background="@drawable/item_selector"/> -->
+        <!-- <TextView android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" -->
+        <!-- android:id="@+id/key9" -->
+        <!-- android:gravity="center" -->
+        <!-- android:text="9" -->
+        <!-- android:background="@drawable/item_selector"/> -->
+        <!-- <TextView android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" -->
+        <!-- android:id="@+id/keyNull" -->
+        <!-- android:gravity="center" -->
+        <!-- android:clickable="true"/> -->
+        <!-- <TextView android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" -->
+        <!-- android:id="@+id/key0" -->
+        <!-- android:gravity="center" -->
+        <!-- android:clickable="true" -->
+        <!-- android:text="0" -->
+        <!-- android:background="@drawable/item_selector"/> -->
+        <!-- <ImageView android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" -->
+        <!-- android:id="@+id/keyDel" -->
+        <!-- android:gravity="center" -->
+        <!-- android:clickable="true" -->
+        <!-- android:scaleType="centerInside" -->
+        <!-- android:src="@drawable/key_del" -->
+        <!-- android:background="@drawable/item_selector"/> -->
+        <!-- <View android:layout_width="match_parent" android:layout_height="1px" -->
+        <!-- android:background="#3e4550"/> -->
+        <!-- <View android:layout_width="match_parent" android:layout_height="1px" -->
+        <!-- android:background="#3e4550"/> -->
+        <!-- <View android:layout_width="match_parent" android:layout_height="1px" -->
+        <!-- android:background="#3e4550"/> -->
+        <!-- <View android:layout_width="match_parent" android:layout_height="1px" -->
+        <!-- android:background="#3e4550"/> -->
+
+
+        <!-- <View android:layout_width="1px" android:layout_height="match_parent" -->
+        <!-- android:background="@android:color/white"/> -->
+        <!-- <View android:layout_width="1px" android:layout_height="match_parent" -->
+        <!-- android:background="@android:color/white"/> -->
+
+    </com.alipay.share.demo.APKeyBoardView2>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/aPKeyBoardView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="106dp"
+        android:text="TextView" />
+
+</RelativeLayout>

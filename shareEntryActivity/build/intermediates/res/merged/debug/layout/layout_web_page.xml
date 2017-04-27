@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <CheckBox android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/timelineChecked"
+              android:text="分享到生活圈"
+              android:checked="true"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="title"
+            android:text="我是标题！"
+            android:id="@+id/title"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="desc"
+            android:text="我是描述啊是描述啊描述啊述啊啊啊啊啊啊啊啊啊啊啊啊~"
+            android:id="@+id/desc"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="thumb"
+            android:text="http://imgsrc.baidu.com/forum/w%3D580/sign=c68ef7258126cffc692abfba89004a7d/538d8113632762d086c82503a3ec08fa503dc67e.jpg"
+            android:id="@+id/thumb_url"/>
+
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="url"
+            android:text="http://www.baidu.com"
+            android:id="@+id/url"/>
+</LinearLayout>

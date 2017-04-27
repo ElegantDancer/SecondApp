@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:scrollbars="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="标签"/>
+
+        <EditText
+                android:id="@+id/tag_txt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="基金标签">
+        </EditText>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="标题"/>
+        <EditText
+                android:id="@+id/title_txt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="这里是基金标题">
+        </EditText>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="基金Code"/>
+        <EditText
+                android:id="@+id/code"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="1001"/>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="基金价格"/>
+        <EditText
+                android:id="@+id/price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="基金价格"/>
+
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="基金图片"/>
+        <EditText
+                android:id="@+id/img"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="http://www.qqzhi.com/uploadpic/2015-01-23/165345349.jpg"/>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="日涨幅描述字段"/>
+        <EditText
+                android:id="@+id/tag1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="日涨幅:">
+        </EditText>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="日涨幅"/>
+        <EditText
+                android:id="@+id/dayIncrease"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="日涨幅%">
+        </EditText>
+
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="周涨幅描述字段"/>
+        <EditText
+                android:id="@+id/tag2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="周涨幅:">
+        </EditText>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="周涨幅"/>
+
+        <EditText
+                android:id="@+id/weekIncrease"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="周涨幅%">
+        </EditText>
+
+
+        <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:hint="thumb"
+                android:text="http://www.qqzhi.com/uploadpic/2015-01-23/165345349.jpg"
+                android:id="@+id/thumb_url"/>
+
+        <EditText
+                android:id="@+id/tag_bg_color"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:hint="标签背景颜色选择">
+        </EditText>
+
+        <EditText
+                android:id="@+id/priceColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:hint="价格颜色选择">
+        </EditText>
+        <EditText
+                android:id="@+id/dayIncreaseColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:hint="日涨幅颜色选择">
+        </EditText>
+
+
+        <EditText
+                android:id="@+id/weekIncreaseColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:hint="周涨幅颜色选择">
+        </EditText>
+
+        <Button
+                android:id="@+id/send"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="发送"/>
+    </LinearLayout>
+</ScrollView>

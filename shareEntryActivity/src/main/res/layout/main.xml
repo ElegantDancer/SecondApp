@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+    <Button android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/go"
+            android:text="跳转到发消息界面"/>
+
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/start_zfb"
+            android:text="启动支付宝"/>
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/check_version"
+            android:text="检查是否支持发送到支付宝"/>
+
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/setting"
+            android:text="设置"/>
+
+</LinearLayout>
+

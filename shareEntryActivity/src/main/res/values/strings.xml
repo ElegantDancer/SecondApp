@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlipayShareDemo</string>
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">权限验证失败</string>
+    <string name="errcode_unknown">未知错误</string>
+    <string name="errcode_send_fail">发送失败</string>
+    <string name="toabao_url">http://a.m.taobao.com/i43926275628.htm?original_price=418符号price=328</string>
+</resources>

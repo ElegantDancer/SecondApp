@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/build/intermediates/res/merged/debug/layout/layout_test.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/src/main/res/layout/layout_test.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/build/intermediates/res/merged/debug/layout/layout_web_page.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/src/main/res/layout/layout_web_page.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/build/intermediates/res/merged/debug/layout/layout_send_to_zfb.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/src/main/res/layout/layout_send_to_zfb.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/build/intermediates/res/merged/debug/layout/fund.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/src/main/res/layout/fund.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/build/intermediates/res/merged/debug/layout/layout_share_image.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/src/main/res/layout/layout_share_image.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/build/intermediates/res/merged/debug/layout/taobao.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/src/main/res/layout/taobao.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/build/intermediates/res/merged/debug/layout/test.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/src/main/res/layout/test.xml"
+    },
+    {
+        "merged": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/build/intermediates/res/merged/debug/layout/layout_setting.xml",
+        "source": "/Users/zhenzhen/AndroidStudioProjects/SecondApp/shareEntryActivity/src/main/res/layout/layout_setting.xml"
+    }
+]

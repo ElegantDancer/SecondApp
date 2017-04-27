@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#ffffff">
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15sp"
+            android:padding="10dp"
+            android:textColor="#000000"
+            android:text="分享二进制"
+            android:id="@+id/image_byte"/>
+    <View android:layout_width="match_parent"
+          android:layout_height="1px"
+          android:background="#333333"/>
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15sp"
+            android:padding="10dp"
+            android:textColor="#000000"
+            android:text="分享图片URL"
+            android:id="@+id/image_url"/>
+    <View android:layout_width="match_parent"
+          android:layout_height="1px"
+          android:background="#333333"/>
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15sp"
+            android:padding="10dp"
+            android:textColor="#000000"
+            android:text="分享图片本地路径"
+            android:id="@+id/image_local_path"/>
+</LinearLayout>

@@ -4,6 +4,7 @@ import android.graphics.Camera;
 import android.graphics.Matrix;
 import android.view.animation.AccelerateInterpolator;
 import android.view.animation.Animation;
+import android.view.animation.LinearInterpolator;
 import android.view.animation.Transformation;
 
 public class CustomTV extends Animation {
@@ -25,7 +26,7 @@ public class CustomTV extends Animation {
         // 动画结束后保留状态
         setFillAfter(true);
         // 设置默认插值器
-        setInterpolator(new AccelerateInterpolator());
+        setInterpolator(new LinearInterpolator());
         mCenterWidth = width / 2;
         mCenterHeight = height / 2;
     }
@@ -39,10 +40,8 @@ public class CustomTV extends Animation {
     protected void applyTransformation(
             float interpolatedTime,
             Transformation t) {
-        final Matrix matrix = t.getMatrix();
-        matrix.preScale(1,
-                1 - interpolatedTime,
-                mCenterWidth,
-                mCenterHeight);
+        Matrix matrix = t.getMatrix();
+
+        matrix.postScale(1, 1 - interpolatedTime, mCenterWidth, mCenterHeight);
     }
 }

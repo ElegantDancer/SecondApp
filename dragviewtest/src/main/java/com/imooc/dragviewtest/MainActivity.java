@@ -37,7 +37,6 @@ public class MainActivity extends Activity {
     public void btnScroll(View view){
 
         view.scrollBy(30, 30);
-
         Log.i("*********** ", "*********************************************");
         Log.i("view.getLeft-----> ", String.valueOf(view.getLeft()));
         Log.i("view.getX-----> ", String.valueOf(view.getX()));
